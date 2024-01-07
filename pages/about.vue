@@ -1,6 +1,6 @@
 <template>
-    <div>
-       <h2>Profile Section Here. </h2>
+    <div class="p-5">
+      <h1>Here is About page.</h1>
     </div>
 </template>
 
@@ -9,3 +9,4 @@
         
     }
 </script>
+
