@@ -3,6 +3,7 @@
        <NuxtLink to="/home">Home </NuxtLink>
        <NuxtLink to="/about">About </NuxtLink>
        <NuxtLink to="/phones">Phone </NuxtLink>
+       <NuxtLink to="/login">Login </NuxtLink>
        <NuxtLink to="/profile">Profile </NuxtLink>
        <p class="cursor-pointer">Cart({{ cart.length }})</p>
     </nav>
