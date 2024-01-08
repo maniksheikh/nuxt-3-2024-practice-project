@@ -5,7 +5,7 @@
       <div class="flex justify-center">
         <img
           width="250"
-          src="/static/apple-iphone-14-pro-max-img.jpg"
+          src="/static/iphone-14-pro-max-img.jpg"
         />
       </div>
     </NuxtLink>
